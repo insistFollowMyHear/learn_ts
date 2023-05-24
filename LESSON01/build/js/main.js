@@ -1,7 +1,7 @@
 "use strict";
-let username = 'Jon Yu Han';
+let username = 'what do you looking for';
 console.log(username);
-let today = '0524';
-let todo = 'study ts';
-let age = 25;
-console.log(today, todo, age);
+const a = 4;
+const b = '16';
+const c = 24;
+console.log(b / a);
