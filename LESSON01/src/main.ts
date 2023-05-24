@@ -4,4 +4,4 @@ console.log(username);
 const a: number = 4
 const b: string = '16'
 const c: number = 24
-console.log(b / a)
+console.log(c / a)
