@@ -19,3 +19,13 @@ createUser({ name: 'hero', isPaid: false})
 function createCourse():{name: string, price: number} {
   return {name: 'hero', price: 99.89}
 }
+
+interface MyGirl { name: string }
+interface MyGirl { age: number }
+const girl: MyGirl = {
+  name: '阿卡丽',
+  age: 18
+}
+
+type BeWoman = { name: string }
+
